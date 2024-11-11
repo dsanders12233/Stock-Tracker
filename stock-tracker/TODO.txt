@@ -1,0 +1,9 @@
+-Logic for the tracker
+-Can potentially use AG Grid for the table values
+-How will the app determine valid stock tickers?
+-What API will be used to get stock price data?
+-If AG Grid is used, how will the 
+
+
+
+API Key for Alpha Vantage-  649TEQ5HEZD51MZ2
